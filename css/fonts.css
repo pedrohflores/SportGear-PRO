@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "thin";
+    src: url(../fonts/Mulish-Light.ttf);
+}
+  
+@font-face {
+    font-family: "italic";
+    src: url(../fonts/Mulish-LightItalic.ttf);
+}
+  
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/Jaldi-Regular.ttf);
+}
